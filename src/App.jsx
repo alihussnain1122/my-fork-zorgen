@@ -16,6 +16,7 @@ export default function App() {
       <Header />
       <Banner />
       <Main />
+      <h2>I am contributing in project</h2>
       <ListIcon />
       <KnowMore />
       <MidBanner />
